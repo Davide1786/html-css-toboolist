@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+body{   
+    margin: 0 auto;
+}
+
+#logo{
+    line-height: 80px; 
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.logotipo{
+    font-size: 40px;
+    font-weight: 700;
+    vertical-align: middle;
+}
+
+.main{
+    background-color: whitesmoke;
+    height: 800px;
+    width: 80%;
+    margin: 20px auto;
+}
