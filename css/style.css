@@ -11,7 +11,7 @@
 body{   
     margin: 0 auto;
 }
-
+/* inizio header */
 #logo{
     line-height: 80px; 
     vertical-align: middle;
@@ -24,9 +24,23 @@ body{
     vertical-align: middle;
 }
 
+/* fine header */
+
+/* inizio main */
+
 .main{
     background-color: whitesmoke;
     height: 800px;
     width: 80%;
-    margin: 20px auto;
+    margin: 0px auto;
+    padding-top: 50px;
 }
+
+.sfondo{
+    height: 98%;
+    background-color: white;
+    width: 75%;
+    margin: 0 auto;
+}
+
+/* fine main */
